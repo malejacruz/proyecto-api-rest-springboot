@@ -141,42 +141,42 @@ Eliminar paciente
 
 
 Obtener todos los doctores
-![Obtener todos los doctores!](./src/img/imgDoctores/getAllDoctores.jpeg)<br>
+![Obtener todos los doctores!](./src/img/ImgDoctores/getAllDoctores.jpeg)<br>
 
 Obtener el doctor por id
-![Obtener el doctor por id!](./src/img/imgDoctores/getDoctoresByID.jpeg)
+![Obtener el doctor por id!](./src/img/ImgDoctores/getDoctoresByID.jpeg)
 
 Obtener todos los doctores por especialidad
-![Obtener todos los doctores con citas programadas!](./src/img/imgDoctores/getDoctoresByEspecialidad.jpeg)
+![Obtener todos los doctores con citas programadas!](./src/img/ImgDoctores/getDoctoresByEspecialidad.jpeg)
 
 Obtener las citas programadas del doctor por id
-![Obtener el doctores con cita programada por id!](./src/img/imgDoctores/getDoctoresByCitas.jpeg)
+![Obtener el doctores con cita programada por id!](./src/img/ImgDoctores/getDoctoresByCitas.jpeg)
 
 Crear doctores
-![Crear doctores!](./src/img/imgDoctores/postDoctores.jpeg)
+![Crear doctores!](./src/img/ImgDoctores/postDoctores.jpeg)
 
 Actualizar doctores
-![Actualizar doctores!](./src/img/imgDoctores/putDoctores.jpeg)
+![Actualizar doctores!](./src/img/ImgDoctores/putDoctores.jpeg)
 
 Eliminar doctor
-![Eliminar doctor!](./src/img/imgDoctores/deleteDoctores.jpeg)<br><br>
+![Eliminar doctor!](./src/img/ImgDoctores/deleteDoctores.jpeg)<br><br>
 
 ### Pruebas para citas
 
 Obtener todas las citas
-![Obtener todas las citas!](./src/img/imgCitas/getAllCitas.jpeg)
+![Obtener todas las citas!](./src/img/ImgCitas/getAllCitas.jpeg)
 
 Obtener la cita por id
-![Obtener la cita por id!](./src/img/imgCitas/getCitasById.jpeg)
+![Obtener la cita por id!](./src/img/ImgCitas/getCitasById.jpeg)
 
 Crear citas
-![Crear citas!](./src/img/imgCitas/postCitas.jpeg)
+![Crear citas!](./src/img/ImgCitas/postCitas.jpeg)
 
 Actualizar cita
-![Actualizar cita!](./src/img/imgCitas/putCitas.jpeg)
+![Actualizar cita!](./src/img/ImgCitas/putCitas.jpeg)
 
 Eliminar cita
-![Eliminar cita!](./src/img/imgCitas/deleteCitas.jpeg)
+![Eliminar cita!](./src/img/ImgCitas/deleteCitas.jpeg)
 
 # 7. Desarrolladores
 ---
